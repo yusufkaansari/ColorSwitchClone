@@ -39,7 +39,7 @@ namespace ColorSwitch
         public void StopGame() { Time.timeScale = 0; }
         public void ContinueGame() { Time.timeScale = 1; }
         public void GameOver() { OnLevelCompleted?.Invoke(); }
-        public void ExitGame() { Application.Quit(); }
+        //public void ExitGame() { Application.Quit(); }
 
     }
 }

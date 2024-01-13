@@ -17,7 +17,7 @@ namespace ColorSwitch
         [SerializeField] private TMP_Text _highScore;
         [SerializeField] private GameObject _newHighScore;
         [SerializeField] private Button _relay;
-        [SerializeField] private Button _exit;
+        //[SerializeField] private Button _exit;
         private GameManager _gameManager;
         private LevelManager _levelManager;
 
@@ -31,7 +31,7 @@ namespace ColorSwitch
             if (Waypoint.TryGetWaypoint(out LevelManager levelManager)) { _levelManager = levelManager; }
             _gameManager.OnLevelCompleted += OpenGameOverPanel;
             _relay.onClick.AddListener(_levelManager.RestartLevel);
-            _exit.onClick.AddListener(_gameManager.ExitGame);
+            //_exit.onClick.AddListener(_gameManager.ExitGame);
             _gameManager.StopGame();
         }
         private void Update()
