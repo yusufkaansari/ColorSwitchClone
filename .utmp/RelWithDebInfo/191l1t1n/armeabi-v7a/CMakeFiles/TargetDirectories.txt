@@ -1,0 +1,5 @@
+D:/PROJECTS/Unity/ColorSwitchClone/.utmp/RelWithDebInfo/191l1t1n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/PROJECTS/Unity/ColorSwitchClone/.utmp/RelWithDebInfo/191l1t1n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/PROJECTS/Unity/ColorSwitchClone/.utmp/RelWithDebInfo/191l1t1n/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/PROJECTS/Unity/ColorSwitchClone/.utmp/RelWithDebInfo/191l1t1n/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/PROJECTS/Unity/ColorSwitchClone/.utmp/RelWithDebInfo/191l1t1n/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

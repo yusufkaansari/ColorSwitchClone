@@ -117,7 +117,7 @@ namespace ColorSwitch
         private void Ziplama()
         {
             _gameManager.PlayClick();
-            _rb.velocity = Vector2.up * _ziplamaKuvveti * Time.fixedDeltaTime;
+            _rb.linearVelocity = Vector2.up * _ziplamaKuvveti * Time.fixedDeltaTime;
         }
         private void RastgeleRenkBelirle()
         {

@@ -1,0 +1,1 @@
+D:\PROJECTS\Unity\ColorSwitchClone\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\191l1t1n\obj\armeabi-v7a
